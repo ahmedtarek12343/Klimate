@@ -1,27 +1,75 @@
 # 🌦️ Klimate - Modern Weather Dashboard
 A beautiful, feature-rich weather application built with React, TypeScript, and Tailwind CSS. Get real-time weather data, forecasts, and location-based weather information with a stunning UI and multiple theme options.
 
-✨ Features
 
-🌍 Geolocation Support - Automatically detect and display weather for your current location
-🔍 City Search - Search and view weather for any city worldwide
-📊 Detailed Weather Data - Current conditions, hourly temperature charts, and 5-day forecasts
-🎨 8 Beautiful Themes - Choose from Light, Dark, Forest, Ocean, Rose, Sunset, Midnight, and Lavender themes
-📱 Fully Responsive - Optimized for desktop, tablet, and mobile devices
-⚡ Fast & Efficient - Built with React Query for optimized data fetching and caching
-🎭 Smooth Animations - Framer Motion powered animations for delightful interactions
-📈 Interactive Charts - Recharts integration for temperature visualizations
-🌓 Theme Persistence - Your theme preference is saved locally
+#✨ Features
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌍 Geolocation Support</h3>
+      <p>Automatically detect and display weather for your current location with native browser geolocation API</p>
+    </td>
+    <td width="50%">
+      <h3>🔍 Smart City Search</h3>
+      <p>Search and view weather for any city worldwide with instant autocomplete suggestions</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Detailed Weather Data</h3>
+      <p>Current conditions, hourly temperature charts, and comprehensive 5-day forecasts</p>
+    </td>
+    <td>
+      <h3>🎨 8 Beautiful Themes</h3>
+      <p>Light, Dark, Forest, Ocean, Rose, Sunset, Midnight, and Lavender - all with OKLCH color space</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📱 Fully Responsive</h3>
+      <p>Optimized for desktop, tablet, and mobile devices with adaptive layouts</p>
+    </td>
+    <td>
+      <h3>⚡ Fast & Efficient</h3>
+      <p>Built with React Query for optimized data fetching, caching, and automatic background updates</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎭 Smooth Animations</h3>
+      <p>Framer Motion powered animations for delightful user interactions</p>
+    </td>
+    <td>
+      <h3>📈 Interactive Charts</h3>
+      <p>Recharts integration for beautiful temperature visualizations</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🌓 Theme Persistence</h3>
+      <p>Your theme preference is automatically saved and restored across sessions</p>
+    </td>
+  </tr>
+</table>
 
-🚀 Tech Stack
-
-Framework: React 19 with TypeScript
-Routing: React Router v7
-Styling: Tailwind CSS 4.x with custom theme system
-State Management: TanStack Query (React Query)
-UI Components: Radix UI primitives with shadcn/ui
-Charts: Recharts
-Animations: Framer Motion
-API: OpenWeatherMap API
-Build Tool: Vite
-Date Handling: date-fns
+# 🛠️ Tech Stack
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React 19
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind 4.x
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+  </tr>
+</table>
