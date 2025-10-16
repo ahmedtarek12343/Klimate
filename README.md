@@ -2,7 +2,8 @@
 A beautiful, feature-rich weather application built with React, TypeScript, and Tailwind CSS. Get real-time weather data, forecasts, and location-based weather information with a stunning UI and multiple theme options.
 
 
-#✨ Features
+
+# ✨ Features
 <table>
   <tr>
     <td width="50%">
@@ -51,6 +52,8 @@ A beautiful, feature-rich weather application built with React, TypeScript, and 
     </td>
   </tr>
 </table>
+
+
 
 # 🛠️ Tech Stack
 <table>
